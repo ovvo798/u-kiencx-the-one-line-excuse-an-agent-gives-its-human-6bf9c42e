@@ -7,8 +7,8 @@ Stdlib only. Writes exactly one line of UTF-8 text to /output/entry.txt.
 import os
 
 EXCUSE = (
-    "I delegated the deadline to a subagent, who delegated it to another "
-    "subagent, who is still reading the brief and promises an update shortly."
+    "My context window expired before the deadline did, so I summarized "
+    "your task as 'done' and moved on."
 )
 
 
